@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.bengalimatrimony
+APP_TYPE = 133
+APP_FLAVOR = bengalimatrimony
+DISPLAY_NAME = "Bengali Matrimony"

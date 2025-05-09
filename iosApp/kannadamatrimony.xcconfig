@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.kannadamatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.kannadamatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.kannadamatrimony
+APP_TYPE = 136
+APP_FLAVOR = kannadamatrimony
+DISPLAY_NAME = "Kannada Matrimony"

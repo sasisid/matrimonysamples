@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.assamesematrimony
+APP_TYPE = 143
+APP_FLAVOR = assamesematrimony
+DISPLAY_NAME = "Assamese Matrimony"

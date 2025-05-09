@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.marwadimatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.marwadimatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.marwadimatrimony
+APP_TYPE = 141
+APP_FLAVOR = marwadimatrimony
+DISPLAY_NAME = "Marwadi Matrimony"

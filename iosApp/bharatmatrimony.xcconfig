@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.bharatmatrimony
+APP_TYPE = 104
+APP_FLAVOR = bharatmatrimony
+DISPLAY_NAME = "Bharat Matrimony"

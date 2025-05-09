@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.urdumatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.urdumatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.urdumatrimony
+APP_TYPE = 142
+APP_FLAVOR = urdumatrimony
+DISPLAY_NAME = "Urdu Matrimony"

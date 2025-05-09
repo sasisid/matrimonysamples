@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.bhojpurimatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.bhojpurimatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.bhojpurimatrimony
+APP_TYPE = 148
+APP_FLAVOR = bhojpurimatrimony
+DISPLAY_NAME = "Bhojpuri Matrimony"

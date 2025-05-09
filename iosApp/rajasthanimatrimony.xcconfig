@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.rajasthanimatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.rajasthanimatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.rajasthanimatrimony
+APP_TYPE = 147
+APP_FLAVOR = rajasthanimatrimony
+DISPLAY_NAME = "Rajasthani Matrimony"

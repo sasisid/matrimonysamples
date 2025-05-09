@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.biharimatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.biharimatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.biharimatrimony
+APP_TYPE = 146
+APP_FLAVOR = biharimatrimony
+DISPLAY_NAME = "Bihari Matrimony"

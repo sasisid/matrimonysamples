@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.telugumatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.telugumatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.telugumatrimony
+APP_TYPE = 134
+APP_FLAVOR = telugumatrimony
+DISPLAY_NAME = "Telugu Matrimony"

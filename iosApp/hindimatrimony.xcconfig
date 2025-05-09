@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.hindimatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.hindimatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.hindimatrimony
+APP_TYPE = 140
+APP_FLAVOR = hindimatrimony
+DISPLAY_NAME = "Hindi Matrimony"

@@ -1,0 +1,12 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.keralamatrimony.iosApp
+APP_TYPE = 132
+APP_FLAVOR = keralamatrimony
+PRODUCT_NAME = keralamatrimony
+EXECUTABLE_NAME = $(PRODUCT_NAME)
+DISPLAY_NAME = Kerala Matrimony
+ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon-keralamatrimony
+MARKETING_VERSION = 1.0
+CURRENT_PROJECT_VERSION = 1

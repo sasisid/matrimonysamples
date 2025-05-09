@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.marathimatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.marathimatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.marathimatrimony
+APP_TYPE = 135
+APP_FLAVOR = marathimatrimony
+DISPLAY_NAME = "Marathi Matrimony"

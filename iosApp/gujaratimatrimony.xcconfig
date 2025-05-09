@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.gujaratimatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.gujaratimatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.gujaratimatrimony
+APP_TYPE = 138
+APP_FLAVOR = gujaratimatrimony
+DISPLAY_NAME = "Gujarati Matrimony"

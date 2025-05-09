@@ -1,0 +1,12 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.tamilmatrimony.iosApp
+APP_TYPE = 131
+APP_FLAVOR = tamilmatrimony
+PRODUCT_NAME = TamilMatrimony
+EXECUTABLE_NAME = $(PRODUCT_NAME)
+DISPLAY_NAME = Tamil Matrimony
+ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon
+MARKETING_VERSION = 1.0
+CURRENT_PROJECT_VERSION = 1

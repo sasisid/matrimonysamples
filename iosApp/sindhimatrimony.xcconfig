@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.sindhimatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.sindhimatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.sindhimatrimony
+APP_TYPE = 145
+APP_FLAVOR = sindhimatrimony
+DISPLAY_NAME = "Sindhi Matrimony"

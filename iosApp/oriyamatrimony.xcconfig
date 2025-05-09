@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.oriyamatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.oriyamatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.oriyamatrimony
+APP_TYPE = 137
+APP_FLAVOR = oriyamatrimony
+DISPLAY_NAME = "Oriya Matrimony"

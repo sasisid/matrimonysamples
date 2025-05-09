@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.punjabimatrimony debug.xcconfig"
+#include? "Pods/Target Support Files/Pods-iosApp/Pods-iosApp.punjabimatrimony release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = com.punjabimatrimony
+APP_TYPE = 139
+APP_FLAVOR = punjabimatrimony
+DISPLAY_NAME = "Punjabi Matrimony"
